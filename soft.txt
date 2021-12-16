@@ -1,0 +1,90 @@
+環境リストを確認
+conda env list
+
+環境を有効するに
+conda activate C:\codes\Python\conda_tutorials\project_folder\env
+
+
+- PIPを最新のバージョンにする（pipじゃないとインストールできなかった）
+conda install --upgrade pip
+
+- Numpyをインストールする
+conda install numpy
+
+- Matplotlibをインストールする　ーOK
+conda install matplotlib
+
+- Scikit-learnをインストールする　ーOK
+conda install scikit-learn
+
+pillowをインストールする（すでにされてるかも）
+conda install pillow
+
+- OpenCV をインストール（pipじゃないとインストールできなかった）
+pip install opencv-python
+
+- Jupyter Notebook を導入する　ーOK
+conda install notebook
+
+- pandas を導入する　ーOK
+conda install pandas
+
+ネットに転がっている画像を取得するためのツール（pipじゃないとインストールできなかった）
+pip install icrawler
+
+- DICOSデータの読み込み用を導入する（pipじゃないとインストールできなかった）
+pip install pydicom
+
+- tensorflowを導入する（時間がかかる）ーOK
+conda install tensorflow
+
+- kerasを導入する　ーOK
+conda install keras
+
+- jupyterを導入する　ーOK
+conda install jupyter
+
+- beautifulsoup4を導入する　ーOK
+conda install requests beautifulsoup4
+
+- janomeを導入する（pipじゃないとインストールできなかった）　ーOK
+pip install janome
+
+YOLO5
+「git bash」で
+git clone https://github.com/ultralytics/yolov5
+「C:\Users\junic」の落ちてくる。
+yolov5フォルダを仮想のフォルダに入れる。C:\Users\junic\anaconda3\env
+AnacondaPromputを開く
+仮想に入る（移動）「conda activate 仮想名」
+yolov5フォルダまで移動する。
+pip install -qr requirements.txt
+
+COCOデータセット（使うなら）のダウンロード
+google colaboratoryで
+!wget https://github.com/ultralytics/yolov5/releases/download/v1.0/coco128.zip
+これを仮想フォルダに入れる。
+
+kivy。
+## 各種ライブラリをインストール
+pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
+pip install kivy.deps.gstreamer
+ 
+## kivyインストール
+pip install kivy
+
+## pysimpleguiのインストール
+conda install -c conda-forge qrcode pysimplegui
+
+##pyautoguiのインストール
+pip3 install pyautogui
+
+#pyinstallerのインストール（実行ファイル化用）
+conda install pyinstaller
+
+#PyAutoGUIのインストール
+conda install pyautogui
+
+VScode -OK
+Thonny -OK
+Libreoffice -OK
