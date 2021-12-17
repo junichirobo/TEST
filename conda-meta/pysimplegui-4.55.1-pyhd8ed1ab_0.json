@@ -1,0 +1,189 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.4"
+  ],
+  "extracted_package_dir": "C:\\Users\\junic\\anaconda3\\pkgs\\pysimplegui-4.55.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Scripts/psghelp",
+    "Scripts/psgissue",
+    "Scripts/psgmain",
+    "Scripts/psgsettings",
+    "Scripts/psgupgrade",
+    "Scripts/psgver",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/INSTALLER",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/METADATA",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/RECORD",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/REQUESTED",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/WHEEL",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/direct_url.json",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/entry_points.txt",
+    "Lib/site-packages/PySimpleGUI-4.55.1.dist-info/top_level.txt",
+    "Lib/site-packages/PySimpleGUI/PySimpleGUI.py",
+    "Lib/site-packages/PySimpleGUI/__init__.py",
+    ".nonadmin",
+    "Lib/site-packages/PySimpleGUI/__pycache__/PySimpleGUI.cpython-39.pyc",
+    "Lib/site-packages/PySimpleGUI/__pycache__/__init__.cpython-39.pyc"
+  ],
+  "fn": "pysimplegui-4.55.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "LGPL-3.0-or-later",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\Users\\junic\\anaconda3\\pkgs\\pysimplegui-4.55.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "a6fd6b3234e059207d134925e95ddc5c",
+  "name": "pysimplegui",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\junic\\anaconda3\\pkgs\\pysimplegui-4.55.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/psghelp",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "8a56e18f98a5dfca94d260cc8743f1bb1e2a1b7af4af5504e7c8a84136cb7a5e",
+        "sha256_in_prefix": "0a3632dc7be78a7ee4dbd9af6668829d96883d70466309ca40559dab7e5485e5",
+        "size_in_bytes": 523
+      },
+      {
+        "_path": "python-scripts/psgissue",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "4523ced23c9672b0d0183fef272af0b10ea6749c32365d5f153221c47e388890",
+        "sha256_in_prefix": "2e1c1b20df5ba27fd0023b408c0ad164f9d4b4f1b00f6db8b2e2fc8d77642d48",
+        "size_in_bytes": 541
+      },
+      {
+        "_path": "python-scripts/psgmain",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "eb48d92b6708dfe243b8a3d99a4fb98e10f5c78bfb3f9b1badb9805813004baa",
+        "sha256_in_prefix": "f3e51168f41649408027c36e628cb1c1db9377c281267dfc8c9c1f08a4e58fbc",
+        "size_in_bytes": 531
+      },
+      {
+        "_path": "python-scripts/psgsettings",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "0c09027fe47dc16fb7dc6e604b18fbd65d768185fe5b2811a1430d225c6075c7",
+        "sha256_in_prefix": "3bd5cd055b37972da2df495dbe15c59617d1ce663e1d475833997c14938270ad",
+        "size_in_bytes": 561
+      },
+      {
+        "_path": "python-scripts/psgupgrade",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "5ab66af70a14434f9fec2d57d019fa230b6bd213827b7861fec3376986b8c3e3",
+        "sha256_in_prefix": "1d7d3d5e0c3dd0ba69e0c97c4497d67dbd8fc819ac20fbcdde1cc1246cac63dd",
+        "size_in_bytes": 537
+      },
+      {
+        "_path": "python-scripts/psgver",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/pysimplegui_1636418214028/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "505a643040b5443442e7140b8c60ccc3996ede22567342a6a064257088b1a2cf",
+        "sha256_in_prefix": "a51c13f866e920ff281f52caa014e5e7013058990d81ad9f8eebce08b4f1699a",
+        "size_in_bytes": 535
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "241dccd6f89085221702b3447b1f2f881f2b2253dafd0b5f59efc740bee2d4f3",
+        "sha256_in_prefix": "241dccd6f89085221702b3447b1f2f881f2b2253dafd0b5f59efc740bee2d4f3",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4531ad329faac7540233f785ad429c6e33413983b5cbcceb0a4649ed58175335",
+        "sha256_in_prefix": "4531ad329faac7540233f785ad429c6e33413983b5cbcceb0a4649ed58175335",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "dd8e5d41ae0eee46310e44f240fb6f13fde55ee86d3eac68925bc34a8526d549",
+        "sha256_in_prefix": "dd8e5d41ae0eee46310e44f240fb6f13fde55ee86d3eac68925bc34a8526d549",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "cf0bad009698f7ae139588ee8fed4eee3721c0cfcea184cfcccb1233aba85e92",
+        "sha256_in_prefix": "cf0bad009698f7ae139588ee8fed4eee3721c0cfcea184cfcccb1233aba85e92",
+        "size_in_bytes": 355
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.55.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f6c2c721b048005753d67d36aef52fac6840b262009137d31be818e6c9386e97",
+        "sha256_in_prefix": "f6c2c721b048005753d67d36aef52fac6840b262009137d31be818e6c9386e97",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/PySimpleGUI/PySimpleGUI.py",
+        "path_type": "hardlink",
+        "sha256": "c750d6385af1dea3de02bebd039ddb6e93731bb462393c80220deca6b948d2d1",
+        "sha256_in_prefix": "c750d6385af1dea3de02bebd039ddb6e93731bb462393c80220deca6b948d2d1",
+        "size_in_bytes": 1499704
+      },
+      {
+        "_path": "site-packages/PySimpleGUI/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "639e06d82df92db6c7619d8ec3aa2346a482e339866080eb0f03c265ed19e4a7",
+        "sha256_in_prefix": "639e06d82df92db6c7619d8ec3aa2346a482e339866080eb0f03c265ed19e4a7",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "Lib/site-packages/PySimpleGUI/__pycache__/PySimpleGUI.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/PySimpleGUI/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pysimplegui",
+  "sha256": "7f82ecf05570979a2c95da82de7d45d968f2a74d371627065ab5f12daa146808",
+  "size": 353020,
+  "subdir": "noarch",
+  "timestamp": 1636418314046,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pysimplegui-4.55.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "4.55.1"
+}
